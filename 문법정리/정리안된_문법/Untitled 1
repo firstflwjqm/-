@@ -1,3 +1,7 @@
 Scanner
 JOption
 System 클래스
+	System.in.read();
+Print 공백주기
+
+Random클래스
